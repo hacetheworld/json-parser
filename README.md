@@ -1,2 +1,3 @@
 # json-parser
-this is an json parser tool which will check weather the json is correct or not
+
+Just put your json object inside this input and it will check weather it is correct or not
